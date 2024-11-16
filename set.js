@@ -19,7 +19,7 @@ module.exports = { session: process.env.SESSION_ID || 'Byte;;;',
 
 
 
-    PREFIXE: process.env.PREFIX || ".",
+    PREFIXE: process.env.PREFIX || "levanter_16705f14065fb24bcb8f4303847b4cb034",
 
 
 
